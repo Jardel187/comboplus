@@ -103,3 +103,17 @@ body {
 .container__descricao {
     padding: 2em;
 }
+
+/* secao 4 */
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo
